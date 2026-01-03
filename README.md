@@ -26,18 +26,10 @@
 </div>
 
 ---
-
 ## 🚀 Estatísticas:
 
-<<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidlimma007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-BR&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davidlimma007&locale=pt-BR&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidlima007&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-BR" height="170" alt="Estatísticas gerais" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davidlima007&layout=compact&langs_count=10&theme=dark&locale=pt-BR&hide_progress=false" height="170" alt="Linguagens mais usadas" />
 </div>
