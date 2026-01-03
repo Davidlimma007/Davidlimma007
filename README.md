@@ -29,7 +29,7 @@
 ## 🚀 Estatísticas:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidlima007&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-BR" height="170" alt="Estatísticas gerais" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidlimma007&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-BR" height="170" alt="Estatísticas gerais" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davidlima007&layout=compact&langs_count=10&theme=dark&locale=pt-BR&hide_progress=false" height="170" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davidlimma007&layout=compact&langs_count=10&theme=dark&locale=pt-BR&hide_progress=false" height="170" alt="Linguagens mais usadas" />
 </div>
