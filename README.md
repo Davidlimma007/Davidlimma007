@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 👋 oiii! Eu sou David Lima
+## 👋 Oiii! Eu sou David Lima
 
 👨🏻‍💻 Desenvolvedor Backend.<br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
