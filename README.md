@@ -1,39 +1,58 @@
-# 👋 Oiii! Eu sou o David Lima
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-💻 Desenvolvedor Backend apaixonado por tecnologia  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+<div align="center">
 
----
+## 👋 oiii! Eu sou David Lima
 
-## 🚀 Tecnologias
+👨🏻‍💻 Desenvolvedor Backend.<br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+| ![David Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davidlimma007&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davidlimma007&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davidlimma007&theme=github_dark) |
+| :-: | :-: | :-: |
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidlimma007&show_icons=true&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davidlimma007&theme=github_dark) 
 
----
+</div>
 
-## 📈 Top Languages
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidlimma007&layout=compact&theme=tokyonight)
+<h3> Contatos:</h3>
 
----
+<div align="center">
 
-## 🔥 GitHub Streak
+<a href="https://www.linkedin.com/in/david-limaa" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Davidlimma007&theme=tokyonight)
+<a href="mailto:davidlimma05@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
+</a>
 
----
+<a href="https://www.instagram.com/david.limmaa__?igsh=MTg3NHIwY3Q3emQybg==" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23123?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-## 📫 Contato
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+<br/>
+<br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+<h3 align="center">📚 Linguagens e ferramentas</h3>
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,github,postman"/>
+</div>
+
+<br/>
+
+<picture align="center">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
