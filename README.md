@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a4e,100:4079a8&height=160&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050a14,50:1a1a4e,100:4079a8&height=140&section=header"/>
 
 <div align="center">
-  <h1>🪐 &nbsp; 🌍 &nbsp; 🌙 &nbsp; ⭐ &nbsp; Hello, World!</h1>
+  <img width="100%" src="https://raw.githubusercontent.com/Davidlimma007/Davidlimma007/main/hello_world.svg"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4079A8&center=true&vCenter=true&width=620&lines=Olá%2C+eu+sou+David+Lima+%F0%9F%91%8B;Backend+Developer+em+formação;Estudante+de+ADS;Apaixonado+por+Java+%26+Spring+Boot;Construindo+o+futuro%2C+um+commit+por+vez" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=👨🏻‍💻+Backend+Developer+em+formação;🎓+Estudante+de+ADS;☕+Apaixonado+por+Java+%26+Spring+Boot;🚀+Construindo+meu+portfólio+do+zero;💡+Um+commit+de+cada+vez..." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -14,12 +14,11 @@
 
 ### 🚀 Sobre mim
 
-Sou um desenvolvedor backend apaixonado por tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas**. Estou construindo meu portfólio com projetos reais — desde APIs REST com Spring Boot até integrações com IA — e me preparando para minha primeira oportunidade no mercado.
+Sou um desenvolvedor backend apaixonado por tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas**.<br/>
+Estou construindo meu portfólio com projetos reais e me preparando para minha primeira oportunidade no mercado.<br/>
+Meu foco está no ecossistema **Java/Spring Boot**, explorando também Docker, AWS e Spring AI.
 
-🎯 **Objetivo:** Conquistar meu primeiro estágio em desenvolvimento de software <br/>
-📍 **Localização:** Recife, PE — Brasil <br/>
-📚 **Estudando agora:** Spring Security · JWT · Docker · AWS · Spring AI <br/>
-💡 Sempre aprendendo algo novo e gostando de cada linha de código escrita!
+🎯 **Objetivo:** Conquistar meu primeiro estágio em desenvolvimento de software &nbsp;|&nbsp; 📍 **Recife, PE — Brasil**
 
 </div>
 
@@ -30,7 +29,7 @@ Sou um desenvolvedor backend apaixonado por tecnologia, atualmente cursando **An
 <h3 align="center">🛠️ Linguagens & Ferramentas</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,go,ts,js,postgresql,docker,github,postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,github,postman"/>
 </div>
 
 <br/>
@@ -80,4 +79,4 @@ Sou um desenvolvedor backend apaixonado por tecnologia, atualmente cursando **An
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4079a8,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4079a8,100:050a14&height=120&section=footer"/>
