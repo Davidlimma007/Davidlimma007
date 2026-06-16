@@ -1,0 +1,147 @@
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" width="900" height="200">
+  <defs>
+    <!-- Planet 1 - Blue (Earth-like) -->
+    <radialGradient id="g1" cx="38%" cy="32%" r="68%">
+      <stop offset="0%" stop-color="#b3e5fc"/>
+      <stop offset="25%" stop-color="#29b6f6"/>
+      <stop offset="60%" stop-color="#0277bd"/>
+      <stop offset="100%" stop-color="#01062e"/>
+    </radialGradient>
+    <!-- Planet 2 - Orange/Red (Mars-like) -->
+    <radialGradient id="g2" cx="38%" cy="32%" r="68%">
+      <stop offset="0%" stop-color="#ffe0b2"/>
+      <stop offset="25%" stop-color="#ff7043"/>
+      <stop offset="60%" stop-color="#bf360c"/>
+      <stop offset="100%" stop-color="#3e0000"/>
+    </radialGradient>
+    <!-- Planet 3 - Green/Teal (Alien world) -->
+    <radialGradient id="g3" cx="38%" cy="32%" r="68%">
+      <stop offset="0%" stop-color="#b9f6ca"/>
+      <stop offset="25%" stop-color="#00e676"/>
+      <stop offset="60%" stop-color="#00695c"/>
+      <stop offset="100%" stop-color="#001a14"/>
+    </radialGradient>
+    <!-- Planet 4 - Purple/Gold (Gas Giant) -->
+    <radialGradient id="g4" cx="38%" cy="32%" r="68%">
+      <stop offset="0%" stop-color="#f8bbd0"/>
+      <stop offset="25%" stop-color="#ce93d8"/>
+      <stop offset="60%" stop-color="#6a1b9a"/>
+      <stop offset="100%" stop-color="#12002f"/>
+    </radialGradient>
+    <!-- Ring gradient for planet 4 -->
+    <linearGradient id="ring4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f3e5f5" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#ce93d8" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#ab47bc" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#ce93d8" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#f3e5f5" stop-opacity="0"/>
+    </linearGradient>
+    <!-- Text gradient -->
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="40%" stop-color="#76ff03"/>
+      <stop offset="80%" stop-color="#ffea00"/>
+      <stop offset="100%" stop-color="#ff6d00"/>
+    </linearGradient>
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Soft glow for text -->
+    <filter id="tglow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Clip paths -->
+    <clipPath id="c1"><circle cx="82" cy="100" r="70"/></clipPath>
+    <clipPath id="c2"><circle cx="232" cy="100" r="70"/></clipPath>
+    <clipPath id="c3"><circle cx="382" cy="100" r="70"/></clipPath>
+    <clipPath id="c4"><circle cx="532" cy="100" r="70"/></clipPath>
+  </defs>
+
+  <!-- Space background -->
+  <rect width="900" height="200" fill="#050a14"/>
+
+  <!-- Stars -->
+  <circle cx="12" cy="15" r="1" fill="white" opacity="0.8"/>
+  <circle cx="45" cy="8" r="1.5" fill="white" opacity="0.6"/>
+  <circle cx="78" cy="22" r="1" fill="white" opacity="0.9"/>
+  <circle cx="160" cy="12" r="1" fill="white" opacity="0.7"/>
+  <circle cx="195" cy="30" r="1" fill="white" opacity="0.5"/>
+  <circle cx="310" cy="8" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="350" cy="18" r="1" fill="white" opacity="0.6"/>
+  <circle cx="455" cy="10" r="1" fill="white" opacity="0.7"/>
+  <circle cx="490" cy="25" r="1.5" fill="white" opacity="0.9"/>
+  <circle cx="610" cy="15" r="1" fill="white" opacity="0.6"/>
+  <circle cx="660" cy="5" r="1" fill="white" opacity="0.8"/>
+  <circle cx="720" cy="20" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="770" cy="12" r="1" fill="white" opacity="0.7"/>
+  <circle cx="820" cy="28" r="1" fill="white" opacity="0.6"/>
+  <circle cx="855" cy="8" r="1.5" fill="white" opacity="0.9"/>
+  <circle cx="30" cy="170" r="1" fill="white" opacity="0.6"/>
+  <circle cx="120" cy="185" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="280" cy="178" r="1" fill="white" opacity="0.8"/>
+  <circle cx="420" cy="190" r="1" fill="white" opacity="0.7"/>
+  <circle cx="580" cy="175" r="1.5" fill="white" opacity="0.6"/>
+  <circle cx="700" cy="188" r="1" fill="white" opacity="0.9"/>
+  <circle cx="800" cy="172" r="1" fill="white" opacity="0.5"/>
+  <circle cx="875" cy="183" r="1.5" fill="white" opacity="0.7"/>
+
+  <!-- ========== PLANET 1 - BLUE ========== -->
+  <circle cx="82" cy="100" r="70" fill="url(#g1)" filter="url(#glow)"/>
+  <!-- Surface bands -->
+  <ellipse cx="82" cy="88" rx="70" ry="10" fill="#0288d1" opacity="0.35" clip-path="url(#c1)"/>
+  <ellipse cx="82" cy="108" rx="70" ry="8" fill="#01579b" opacity="0.4" clip-path="url(#c1)"/>
+  <ellipse cx="82" cy="120" rx="70" ry="6" fill="#29b6f6" opacity="0.2" clip-path="url(#c1)"/>
+  <!-- Highlight -->
+  <ellipse cx="62" cy="70" rx="24" ry="16" fill="white" opacity="0.18" clip-path="url(#c1)"/>
+
+  <!-- ========== PLANET 2 - ORANGE ========== -->
+  <circle cx="232" cy="100" r="70" fill="url(#g2)" filter="url(#glow)"/>
+  <!-- Surface bands -->
+  <ellipse cx="232" cy="90" rx="70" ry="9" fill="#e64a19" opacity="0.4" clip-path="url(#c2)"/>
+  <ellipse cx="232" cy="112" rx="70" ry="7" fill="#bf360c" opacity="0.35" clip-path="url(#c2)"/>
+  <ellipse cx="232" cy="125" rx="70" ry="5" fill="#ff7043" opacity="0.25" clip-path="url(#c2)"/>
+  <!-- Highlight -->
+  <ellipse cx="212" cy="70" rx="24" ry="16" fill="white" opacity="0.18" clip-path="url(#c2)"/>
+
+  <!-- ========== PLANET 3 - GREEN ========== -->
+  <circle cx="382" cy="100" r="70" fill="url(#g3)" filter="url(#glow)"/>
+  <!-- Surface bands -->
+  <ellipse cx="382" cy="87" rx="70" ry="9" fill="#00897b" opacity="0.4" clip-path="url(#c3)"/>
+  <ellipse cx="382" cy="110" rx="70" ry="7" fill="#004d40" opacity="0.35" clip-path="url(#c3)"/>
+  <ellipse cx="382" cy="123" rx="70" ry="5" fill="#00e676" opacity="0.2" clip-path="url(#c3)"/>
+  <!-- Highlight -->
+  <ellipse cx="362" cy="70" rx="24" ry="16" fill="white" opacity="0.18" clip-path="url(#c3)"/>
+
+  <!-- ========== PLANET 4 - PURPLE (with ring) ========== -->
+  <!-- Ring behind planet -->
+  <ellipse cx="532" cy="108" rx="95" ry="14" fill="url(#ring4)" opacity="0.5"/>
+  <!-- Planet -->
+  <circle cx="532" cy="100" r="70" fill="url(#g4)" filter="url(#glow)"/>
+  <!-- Surface bands -->
+  <ellipse cx="532" cy="89" rx="70" ry="9" fill="#8e24aa" opacity="0.4" clip-path="url(#c4)"/>
+  <ellipse cx="532" cy="112" rx="70" ry="7" fill="#4a148c" opacity="0.4" clip-path="url(#c4)"/>
+  <ellipse cx="532" cy="125" rx="70" ry="5" fill="#ce93d8" opacity="0.2" clip-path="url(#c4)"/>
+  <!-- Highlight -->
+  <ellipse cx="512" cy="70" rx="24" ry="16" fill="white" opacity="0.18" clip-path="url(#c4)"/>
+  <!-- Ring in front of planet -->
+  <ellipse cx="532" cy="108" rx="95" ry="14" fill="none" stroke="#ce93d8" stroke-width="6" opacity="0.4"/>
+
+  <!-- ========== HELLO WORLD TEXT ========== -->
+  <text x="645" y="88"
+    font-family="'Courier New', Courier, monospace"
+    font-size="54"
+    font-weight="900"
+    letter-spacing="2"
+    fill="url(#tg)"
+    filter="url(#tglow)">HELLO</text>
+  <text x="645" y="160"
+    font-family="'Courier New', Courier, monospace"
+    font-size="54"
+    font-weight="900"
+    letter-spacing="2"
+    fill="url(#tg)"
+    filter="url(#tglow)">WORLD</text>
+</svg>
